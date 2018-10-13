@@ -1,0 +1,20 @@
+<cars>
+    <car name="Audi"/>
+    <car name="Alfa Romeo"/>
+    <car name="BMW"/>
+    <car name="Citroen"/>
+    <car name="Chevrolet"/>
+    <car name="Ford"/>
+    <car name="Fiat"/>
+    <car name="Dacia"/>
+    <car name="Kia"/>
+    <car name="Mitsubishi"/>
+    <car name="Mazda"/>
+    <car name="Mercedes"/>
+    <car name="Opel"/>
+    <car name="Peugeot"/>
+    <car name="Renault"/>
+    <car name="Suzuki"/>
+    <car name="Volkswagen"/>
+    <car name="Volvo"/>
+  </cars>  
